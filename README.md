@@ -1,2 +1,3 @@
 # Hello-World
-practice makes perfect
+
+I am veteran of the US Army. I recently found myself unemployed and have decided to take life by the reins and dedicate myself to a new career as a software engineer within the technology industry. I have been educating my self on HTML and CSS by reading a book written by Jon Duckett. I also have his edition of Javascript and Jquery which I hope to tackle next. Research into continuing my education in this field as put a lot of emphasis on coding bootcamps as a strong method for breaking into the industry and molding my skills. Considering I already have a Bachelors degree in Business Administration, I hope my options for employement will be improved.
